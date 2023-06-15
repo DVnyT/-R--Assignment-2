@@ -72,7 +72,7 @@ vecAvg = c(vecAvg, aROI/count)
 vecAvg = vecAvg[-1]
 vecAvg
 print(vecAvg[5]/vecAvg[2])
-print("E-type ships are almost 3 times as untrustworthy")
+print("E-type ships are almost 3 times as untrustworthy as B-types")
 
 # Question d)
 
